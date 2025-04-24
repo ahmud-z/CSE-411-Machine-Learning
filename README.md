@@ -37,3 +37,12 @@
   - [ ] Bagging
   - [ ] Boosting
   - [ ] Stacking
+  
+- Neural Networks / Deep Learning  
+  - [ ] Artificial Neural Networks (ANN)  
+  - [ ] Convolutional Neural Networks (CNN)  
+  - [ ] Recurrent Neural Networks (RNN)  
+  - [ ] Long Short-Term Memory (LSTM)  
+  - [ ] Gated Recurrent Units (GRU)  
+  - [ ] Transformers  
+  - [ ] Generative Adversarial Networks (GANs)
