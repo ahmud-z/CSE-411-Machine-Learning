@@ -2,16 +2,38 @@
 
 ## Table of Contents
 - Supervised Learning
+  - [ ] Linear Regression
+  - [ ] Logistic Regression
+  - [ ] Decision Trees
+  - [ ] Random Forest
+  - [ ] Support Vector Machines (SVM)
   - [ ] Naive Bayes
+  - [ ] K-Nearest Neighbors (KNN)
+  - [ ] Gradient Boosting
+  - [ ] XGBoost
+  - [ ] Neural Networks (Deep Learning)
   
 - Unsupervised Learning
-  -
-  
+  - [ ] K-Means Clustering
+  - [ ] Hierarchical Clustering
+  - [ ] Principal Component Analysis (PCA)
+  - [ ] DBSCAN
+  - [ ] Gaussian Mixture Models (GMM)
+  - [ ] t-SNE (t-Distributed Stochastic Neighbor Embedding)
+  - [ ] Autoencoders
+
 - Reinforcement Learning
-  -
+  - [ ] Q-Learning
+  - [ ] Deep Q-Networks (DQN)
+  - [ ] Policy Gradient Methods
+  - [ ] Actor-Critic Methods
   
 - Semi-supervised Learning
-  -
-  
+  - [ ] Label Propagation
+  - [ ] Self-training Algorithms
+  - [ ] Co-training
+
 - Ensemble Methods
-  -
+  - [ ] Bagging
+  - [ ] Boosting
+  - [ ] Stacking
