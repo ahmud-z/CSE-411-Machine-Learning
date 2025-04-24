@@ -1,6 +1,6 @@
 # CSE-411-Machine-Learning
 
-### Table of Contents
+## Table of Contents
 - Supervised Learning
   -
   
