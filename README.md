@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - Supervised Learning
-  -
+  - [ ] Naive Bayes
   
 - Unsupervised Learning
   -
