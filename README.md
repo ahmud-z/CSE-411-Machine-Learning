@@ -14,7 +14,7 @@
   - [ ] Neural Networks (Deep Learning)
   
 - Unsupervised Learning
-  - [ ] K-Means Clustering
+  - [x] K-Means Clustering
   - [ ] Hierarchical Clustering
   - [ ] Principal Component Analysis (PCA)
   - [ ] DBSCAN
