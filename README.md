@@ -8,7 +8,7 @@
   - [ ] Random Forest
   - [ ] Support Vector Machines (SVM)
   - [ ] Naive Bayes
-  - [ ] K-Nearest Neighbors (KNN)
+  - [x] K-Nearest Neighbors (KNN)
   - [ ] Gradient Boosting
   - [ ] XGBoost
   - [ ] Neural Networks (Deep Learning)
