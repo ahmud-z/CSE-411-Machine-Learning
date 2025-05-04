@@ -7,7 +7,7 @@
   - [x] Decision Trees
   - [ ] Random Forest
   - [ ] Support Vector Machines (SVM)
-  - [ ] Naive Bayes
+  - [x] Naive Bayes
   - [x] K-Nearest Neighbors (KNN)
   - [ ] Gradient Boosting
   
